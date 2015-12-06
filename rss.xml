@@ -4,7 +4,7 @@
         <description><![CDATA[glashelderdesign.nl]]></description>
         <link>https://thegrid.ai/glashelderdesign-nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 11:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 11:02:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glashelderdesign-nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nieuw logo]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/glashelderdesign-nl/nieuw-logo/index.html</link>
             <guid isPermaLink="false">129be6f3-8d1b-49cb-8a30-3e99a3ca105e</guid>
             <pubDate>Sun, 06 Dec 2015 11:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/glashelderdesign-nl/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">817fffee-63b2-4610-b1a4-3cc51b13d291</guid>
-            <pubDate>Sun, 06 Dec 2015 10:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eerste grid]]></title>
-            <description><![CDATA[<article><h1>Eerste grid</h1><p>Eerste post op Grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddd917d990588800a976886e5fe78975bac6648c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/glashelderdesign-nl/eerste-grid/index.html</link>
-            <guid isPermaLink="false">5b9d083f-44ac-405f-892a-5fe337589d48</guid>
-            <pubDate>Sun, 06 Dec 2015 10:38:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
