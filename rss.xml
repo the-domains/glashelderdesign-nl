@@ -4,8 +4,15 @@
         <description><![CDATA[glashelderdesign.nl]]></description>
         <link>https://thegrid.ai/glashelderdesign-nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 10:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 11:01:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glashelderdesign-nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nieuw logo]]></title>
+            <description><![CDATA[<article><h1>Nieuw logo</h1><p>Tweede post op de Grid.io</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/082d45fa-7779-42d0-8cdf-6b3d90b6ec6b.png"></article>]]></description>
+            <link>https://thegrid.ai/glashelderdesign-nl/nieuw-logo/index.html</link>
+            <guid isPermaLink="false">129be6f3-8d1b-49cb-8a30-3e99a3ca105e</guid>
+            <pubDate>Sun, 06 Dec 2015 11:01:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
