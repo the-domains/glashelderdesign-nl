@@ -1,7 +1,7 @@
 name: glashelderdesign.nl
 favicon: null
-layout_spectrum: 0.49911
-typography_spectrum: 0.17228
+layout_spectrum: 0
+typography_spectrum: 0.23998
 collections:
   - index:
       path: /
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#6b7689'
     - '#ffffff'
-    - '#231f20'
-    - '#9b9a9b'
-    - '#747474'
-    - '#bababa'
+    - '#0066b3'
+    - '#3d3d3c'
+    - '#ced2d6'
   brandStrength: 0.625
   lightness: 0.75
   saturation: 0.0625
